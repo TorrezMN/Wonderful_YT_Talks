@@ -32,6 +32,6 @@ extremely interesting and detailed, especially important for the realization of 
 
 <!-- ## [Should Computers Run the World? - with Hannah Fry](https://www.youtube.com/watch?v=Rzhpf1Ai7Z4&ab_channel=TheRoyalInstitution) -->
 
-## [AGREGAR "AYUDA PY"](https://www.youtube.com/watch?v=vtIxkRnQxvk&feature=youtu.be&ab_channel=DjangoConUS)
+## [AYUDA PY](https://www.youtube.com/watch?v=vtIxkRnQxvk&feature=youtu.be&ab_channel=DjangoConUS)
 A ***developer against the world*** and the lessons learned by helping others By ***Marcelo Elizeche Landó***.
 An initiative to help those most in need during the global pandemic of COVID-19.

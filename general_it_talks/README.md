@@ -35,3 +35,11 @@ extremely interesting and detailed, especially important for the realization of 
 ## [AYUDA PY](https://www.youtube.com/watch?v=vtIxkRnQxvk&feature=youtu.be&ab_channel=DjangoConUS)
 A ***developer against the world*** and the lessons learned by helping others By ***Marcelo Elizeche Landó***.
 An initiative to help those most in need during the global pandemic of COVID-19.
+
+
+
+
+---
+[Go Back](../README.md)
+
+

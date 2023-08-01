@@ -37,7 +37,11 @@ A ***developer against the world*** and the lessons learned by helping others By
 An initiative to help those most in need during the global pandemic of COVID-19.
 
 
-
+## [Building Resilient Frontend Architecture • Monica Lent • GOTO 2019](https://www.youtube.com/watch?v=TqfbAXCCVwE&ab_channel=GOTOConferences)
+A talk by **Monica Lent** about the ***"how and the what"*** happens when we take some time to think the architecture of our systems. 
+And how large teams can take better aproaches in the production of software. 
+The term "**Forbidden dependency test**" it is precented. 
+This kind of tests allow to thest the application structure from a "dependencys" standpoint.
 
 ---
 [Go Back](../README.md)
